@@ -1,12 +1,1 @@
-# Prerequisites
-*.d
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Empy. Let all pass.
